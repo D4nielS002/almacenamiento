@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Almacenamiento</string>
+    <string name="titulo">Registro de datos</string>
+    <string name="nombre">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingreso">Ingresar</string>
+
+    <string name="nombreProducto">Nombre de Producto</string>
+    <string name="precio">Precio</string>
+    <string name="btn_insertar">Insertar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_eliminar">Eliminar</string>
+</resources>
